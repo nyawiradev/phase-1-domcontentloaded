@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-06-14T18:39:51.967Z",
+    "end": "2022-06-14T18:39:52.428Z",
+    "duration": 461
+  },
+  "tests": [
+    {
+      "title": "should change the text on the page when DOM content has loaded",
+      "fullTitle": "index.js should change the text on the page when DOM content has loaded",
+      "duration": 6,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "should change the text on the page when DOM content has loaded",
+      "fullTitle": "index.js should change the text on the page when DOM content has loaded",
+      "duration": 6,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
